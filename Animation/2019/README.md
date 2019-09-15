@@ -30,3 +30,9 @@
 - [絲襪視界 / 褲襪視界 / Miru Tights](https://github.com/DMYJS/MMSUB/tree/master/Animation/2019/Miru%20Tights)
 - [一弦定音 / Kono Oto Tomare](https://github.com/DMYJS/MMSUB/tree/master/Animation/2019/Kono%20Oto%20Tomare)
 - []()
+
+### 2019年 1月
+- [雨色可可-Side G / Ame-iro Cocoa - Side G](https://github.com/DMYJS/MMSUB/tree/master/Animation/2019/Ame-iro%20Cocoa%20-%20Side%20G)
+- [交锋联盟：机巧一族 / Fight League - Gear Gadget Generators](https://github.com/DMYJS/MMSUB/tree/master/Animation/2019/Fight%20League%20-%20Gear%20Gadget%20Generators)
+- [兽娘动物园2 / 动物朋友2 / Kemono Friends 2](https://github.com/DMYJS/MMSUB/tree/master/Animation/2019/Kemono%20Friends%20S2)
+- []()
