@@ -1,4 +1,4 @@
-![0](https://s2.ax1x.com/2019/06/24/ZkQQFU.png)
+![1](https://s2.ax1x.com/2019/06/24/ZkQQFU.png)
 
 ## 欢迎到来咪梦动漫组（MMSUB）的GitHub字幕分享页面
 
