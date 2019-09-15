@@ -18,8 +18,8 @@
 - [魔术学姐 / Tejina Senpai](https://github.com/DMYJS/MMSUB/tree/master/Animation/2019/Tejina%20Senpa)
 - [你遭难了吗? / Sounan desu ka](https://github.com/DMYJS/MMSUB/tree/master/Animation/2019/Sounan%20desu%20ka)
 - [异世界超能魔术师 / Isekai Cheat Magician](https://github.com/DMYJS/MMSUB/tree/master/Animation/2019/Isekai%20Cheat%20Magician)
+- [彼方的阿斯特拉 / Kanata no Astra](https://github.com/DMYJS/MMSUB/tree/master/Animation/2019/Kanata%20no%20Astra)
 - []()
-
 
 ### 2019年 4月
 - [一拳超人 2 / One Punch Man Season 2](https://github.com/DMYJS/MMSUB/tree/master/Animation/2019/One%20Punch%20Man%202nd%20Season)
