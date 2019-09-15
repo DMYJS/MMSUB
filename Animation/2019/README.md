@@ -2,6 +2,9 @@
 
 收录2019年度本组所手抄的外挂字幕（不分前后顺序，仅按开播月份计算）
 
+### 2019年 10月
+- [命运 冠位指定 绝对魔兽战线 巴比伦尼亚 / Fate Grand Order Zettai Majuu Sensen Babylonia](https://github.com/DMYJS/MMSUB/tree/master/Animation/2019/Fate%20Grand%20Order:%20Zettai%20Majuu%20Sensen%20Babylonia%20-%20Initium%20Iter)
+- []()
 
 ### 2019年 7月
 - [猎兽神兵/致曾为神之众兽/Katsute Kami Datta Kemono-tachi e](https://github.com/DMYJS/MMSUB/tree/master/Animation/2019/Katsute%20Kami%20Datta%20Kemono-tachi%20e)
