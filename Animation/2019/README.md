@@ -19,6 +19,8 @@
 - [你遭难了吗? / Sounan desu ka](https://github.com/DMYJS/MMSUB/tree/master/Animation/2019/Sounan%20desu%20ka)
 - [异世界超能魔术师 / Isekai Cheat Magician](https://github.com/DMYJS/MMSUB/tree/master/Animation/2019/Isekai%20Cheat%20Magician)
 - [彼方的阿斯特拉 / Kanata no Astra](https://github.com/DMYJS/MMSUB/tree/master/Animation/2019/Kanata%20no%20Astra)
+- [新石紀 / 石纪元 / Dr.STONE](https://github.com/DMYJS/MMSUB/tree/master/Animation/2019/Dr.STONE)
+- []()
 - []()
 
 ### 2019年 4月
@@ -30,9 +32,11 @@
 - [絲襪視界 / 褲襪視界 / Miru Tights](https://github.com/DMYJS/MMSUB/tree/master/Animation/2019/Miru%20Tights)
 - [一弦定音 / Kono Oto Tomare](https://github.com/DMYJS/MMSUB/tree/master/Animation/2019/Kono%20Oto%20Tomare)
 - []()
+- []()
 
 ### 2019年 1月
 - [雨色可可-Side G / Ame-iro Cocoa - Side G](https://github.com/DMYJS/MMSUB/tree/master/Animation/2019/Ame-iro%20Cocoa%20-%20Side%20G)
 - [交锋联盟：机巧一族 / Fight League - Gear Gadget Generators](https://github.com/DMYJS/MMSUB/tree/master/Animation/2019/Fight%20League%20-%20Gear%20Gadget%20Generators)
 - [兽娘动物园2 / 动物朋友2 / Kemono Friends 2](https://github.com/DMYJS/MMSUB/tree/master/Animation/2019/Kemono%20Friends%20S2)
+- []()
 - []()
