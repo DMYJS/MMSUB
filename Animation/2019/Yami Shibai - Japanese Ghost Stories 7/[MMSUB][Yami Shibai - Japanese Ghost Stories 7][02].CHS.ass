@@ -1,0 +1,100 @@
+[Script Info]
+; // 此字幕由PopSub生成  2012-03-29 15:36:52
+; // 版本: 0.77
+; // popgo_fansub@yahoo.co.jp
+; // 欢迎访问漫游天下 http://bbs.popgo.net
+Title:土豆动漫
+Original Script:土豆动漫
+Synch Point:0
+ScriptType:v4.00+
+Collisions:Normal
+PlayResX:640
+PlayResY:360
+Timer:100.0000
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,文泉驿微米黑,26,&H00FFFFFF,&HF0000000,&H00000000,&H80000000,-1,0,0,0,100,100,0,0.00,1,1,1,2,30,30,10,1
+Style: Staff,文泉驿微米黑,15,&H00FFFFFF,&HF0000000,&H002F2F2F,&H802F2F2F,-1,0,0,0,100,100,0,0.00,1,1,1,2,30,30,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:06.32,0:00:12.75,*Default,NTP,0000,0000,0000,,走过路过都来瞧瞧 暗芝居开演了
+Dialogue: 0,0:00:14.89,0:00:19.35,*Default,NTP,0000,0000,0000,,睡不着的孩子
+Dialogue: 0,0:00:19.88,0:00:24.38,*Default,NTP,0000,0000,0000,,这是一个等待丈夫回家的妻子的故事
+Dialogue: 0,0:00:24.38,0:00:25.13,*Default,NTP,0000,0000,0000,,…我可能得明天早上才能回去
+Dialogue: 0,0:00:25.31,0:00:26.79,*Default,NTP,0000,0000,0000,,就不能早点回家吗
+Dialogue: 0,0:00:26.98,0:00:30.38,*Default,NTP,0000,0000,0000,,说不准 不知道还要多久
+Dialogue: 0,0:00:30.43,0:00:32.54,*Default,NTP,0000,0000,0000,,只有我和小健在家 我害怕
+Dialogue: 0,0:00:32.56,0:00:35.14,*Default,NTP,0000,0000,0000,,别怕 我尽快
+Dialogue: 0,0:00:35.81,0:00:38.01,*Default,NTP,0000,0000,0000,,对不起 谢谢
+Dialogue: 0,0:00:38.73,0:00:42.52,*Default,NTP,0000,0000,0000,,下落不明的儿童名叫儿玉清治 9岁
+Dialogue: 0,0:00:43.64,0:00:46.10,*Default,NTP,0000,0000,0000,,啊 这个公园我去过
+Dialogue: 0,0:00:46.65,0:00:48.63,*Default,NTP,0000,0000,0000,,是吗 该睡觉了
+Dialogue: 0,0:00:48.84,0:00:49.74,*Default,NTP,0000,0000,0000,,爸爸呢
+Dialogue: 0,0:00:49.91,0:00:51.96,*Default,NTP,0000,0000,0000,,爸爸今天工作忙回不来
+Dialogue: 0,0:00:52.22,0:00:53.47,*Default,NTP,0000,0000,0000,,快去刷牙
+Dialogue: 0,0:00:53.81,0:00:54.88,*Default,NTP,0000,0000,0000,,好
+Dialogue: 0,0:00:55.89,0:00:58.91,*Default,NTP,0000,0000,0000,,目前没有收到任何目击信息
+Dialogue: 0,0:01:06.26,0:01:07.19,*Default,NTP,0000,0000,0000,,什么声音
+Dialogue: 0,0:01:11.29,0:01:14.02,*Default,NTP,0000,0000,0000,,谁 有人吗
+Dialogue: 0,0:01:16.70,0:01:17.80,*Default,NTP,0000,0000,0000,,小健
+Dialogue: 0,0:01:17.82,0:01:21.66,*Default,NTP,0000,0000,0000,,对不起 我想喝牛奶却把杯子打碎了
+Dialogue: 0,0:01:22.03,0:01:23.02,*Default,NTP,0000,0000,0000,,睡不着吗
+Dialogue: 0,0:01:23.27,0:01:25.35,*Default,NTP,0000,0000,0000,,嗯 做了恶梦
+Dialogue: 0,0:01:25.71,0:01:28.24,*Default,NTP,0000,0000,0000,,妈妈也一样 总是睡不着
+Dialogue: 0,0:01:29.08,0:01:30.52,*Default,NTP,0000,0000,0000,,今天要和妈妈一起睡吗
+Dialogue: 0,0:01:31.44,0:01:36.26,*Default,NTP,0000,0000,0000,,可是我答应了爸爸 已经三年级了要自己睡
+Dialogue: 0,0:01:36.54,0:01:39.40,*Default,NTP,0000,0000,0000,,是吗 那要是害怕就来找妈妈
+Dialogue: 0,0:02:01.91,0:02:02.67,*Default,NTP,0000,0000,0000,,梦？
+Dialogue: 0,0:02:04.88,0:02:05.62,*Default,NTP,0000,0000,0000,,小健？
+Dialogue: 0,0:02:06.58,0:02:07.51,*Default,NTP,0000,0000,0000,,什么时候来的
+Dialogue: 0,0:02:10.50,0:02:11.22,*Default,NTP,0000,0000,0000,,喂
+Dialogue: 0,0:02:11.50,0:02:13.56,*Default,NTP,0000,0000,0000,,刚忙完 马上回来
+Dialogue: 0,0:02:13.58,0:02:16.50,*Default,NTP,0000,0000,0000,,拜托了快点回来 我一个人害怕
+Dialogue: 0,0:02:21.11,0:02:21.79,*Default,NTP,0000,0000,0000,,怎么了
+Dialogue: 0,0:02:22.12,0:02:24.07,*Default,NTP,0000,0000,0000,,这是什么
+Dialogue: 0,0:02:24.56,0:02:25.19,*Default,NTP,0000,0000,0000,,出什么事了
+Dialogue: 0,0:02:25.20,0:02:28.29,*Default,NTP,0000,0000,0000,,这是什么…不可能
+Dialogue: 0,0:02:28.36,0:02:28.95,*Default,NTP,0000,0000,0000,,佐和子
+Dialogue: 0,0:02:29.05,0:02:31.61,*Default,NTP,0000,0000,0000,,不可能 这…不要
+Dialogue: 0,0:02:31.73,0:02:33.30,*Default,NTP,0000,0000,0000,,喂 你怎么了
+Dialogue: 0,0:02:34.11,0:02:37.19,*Default,NTP,0000,0000,0000,,那个小孩 到家里来了
+Dialogue: 0,0:02:37.60,0:02:40.39,*Default,NTP,0000,0000,0000,,被我撞到的小孩
+Dialogue: 0,0:02:40.39,0:02:41.83,*Default,NTP,0000,0000,0000,,冷静 你听我说…
+Dialogue: 0,0:02:42.70,0:02:44.54,*Default,NTP,0000,0000,0000,,老公 老公
+Dialogue: 0,0:02:45.60,0:02:47.17,*Default,NTP,0000,0000,0000,,怎么了 出什么事了
+Dialogue: 0,0:02:48.26,0:02:49.63,*Default,NTP,0000,0000,0000,,不要
+Dialogue: 0,0:02:52.98,0:02:54.82,*Default,NTP,0000,0000,0000,,这个公园真好玩
+Dialogue: 0,0:02:54.96,0:03:00.18,*Default,NTP,0000,0000,0000,,不要 不 求求你
+Dialogue: 0,0:03:00.42,0:03:03.63,*Default,NTP,0000,0000,0000,,我…我…
+Dialogue: 0,0:03:05.46,0:03:10.70,*Default,NTP,0000,0000,0000,,不是我 是那个人说把你埋到山上的
+Dialogue: 0,0:03:13.54,0:03:15.71,*Default,NTP,0000,0000,0000,,对不起 原谅我
+Dialogue: 0,0:03:17.02,0:03:18.03,*Default,NTP,0000,0000,0000,,不要
+Dialogue: 0,0:03:19.62,0:03:20.91,*Default,NTP,0000,0000,0000,,绝不原谅你
+Dialogue: 0,0:03:21.35,0:03:22.15,*Default,NTP,0000,0000,0000,,不要
+Dialogue: 0,0:03:22.20,0:03:24.03,*Default,NTP,0000,0000,0000,,对不起 原谅我吧
+Dialogue: 0,0:03:24.07,0:03:26.07,*Default,NTP,0000,0000,0000,,那是一场意外 求求你
+Dialogue: 0,0:03:31.63,0:03:33.73,*Default,NTP,0000,0000,0000,,不要
+Dialogue: 0,0:03:37.44,0:03:38.32,*Default,NTP,0000,0000,0000,,妈妈
+Dialogue: 0,0:03:39.89,0:03:40.69,*Default,NTP,0000,0000,0000,,小健
+Dialogue: 0,0:03:41.03,0:03:42.49,*Default,NTP,0000,0000,0000,,妈妈 你怎么了
+Dialogue: 0,0:03:43.89,0:03:45.77,*Default,NTP,0000,0000,0000,,睡衣上都是泥
+Dialogue: 0,0:03:47.30,0:03:50.62,*Default,NTP,0000,0000,0000,,你…那么那个小孩是…
+Dialogue: 0,0:03:57.44,0:03:58.47,*Default,NTP,0000,0000,0000,,不要
+Dialogue: 0,0:03:59.13,0:04:00.87,*Default,NTP,0000,0000,0000,,完
+Dialogue: 0,0:00:00.00,0:00:00.00,*Default,NTP,0000,0000,0000,,
+Dialogue: 0,0:00:00.00,0:00:00.00,*Default,NTP,0000,0000,0000,,
+Dialogue: 0,0:00:00.00,0:00:00.00,*Default,NTP,0000,0000,0000,,
+Dialogue: 0,0:00:00.00,0:00:00.00,*Default,NTP,0000,0000,0000,,
+Dialogue: 0,0:00:00.00,0:00:00.00,*Default,NTP,0000,0000,0000,,
+Dialogue: 0,0:00:00.00,0:00:00.00,*Default,NTP,0000,0000,0000,,
+Dialogue: 0,0:00:00.00,0:00:00.00,*Default,NTP,0000,0000,0000,,
+Dialogue: 0,0:00:00.00,0:00:00.00,*Default,NTP,0000,0000,0000,,
+Dialogue: 0,0:00:00.00,0:00:00.00,*Default,NTP,0000,0000,0000,,
+Dialogue: 0,0:00:00.00,0:00:00.00,*Default,NTP,0000,0000,0000,,
+Dialogue: 0,0:00:00.00,0:00:00.00,*Default,NTP,0000,0000,0000,,
+Dialogue: 0,0:00:00.00,0:00:00.00,*Default,NTP,0000,0000,0000,,
+Dialogue: 0,0:00:00.00,0:00:00.00,*Default,NTP,0000,0000,0000,,
+Dialogue: 0,0:00:00.00,0:00:06.32,*Default,NTP,0000,0000,0000,,
+
