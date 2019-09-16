@@ -15,6 +15,7 @@
 - [暗芝居 第7季 / Yami Shibai - Japanese Ghost Stories 7](https://github.com/DMYJS/MMSUB/tree/master/Animation/2019/Yami%20Shibai%20-%20Japanese%20Ghost%20Stories%207)
 - [某科学的一方通行 / Toaru Kagaku no Accelerator](https://github.com/DMYJS/MMSUB/tree/master/Animation/2019/Toaru%20Kagaku%20no%20Accelerator)
 - [魔术学姐 / Tejina Senpai](https://github.com/DMYJS/MMSUB/tree/master/Animation/2019/Tejina%20Senpa)
+- [ 为了女儿，我说不定连魔王都能干掉 / UchiMusume](https://github.com/DMYJS/MMSUB/tree/master/Animation/2019/UchiMusume)
 - [你遭难了吗? / Sounan desu ka](https://github.com/DMYJS/MMSUB/tree/master/Animation/2019/Sounan%20desu%20ka)
 - [异世界超能魔术师 / Isekai Cheat Magician](https://github.com/DMYJS/MMSUB/tree/master/Animation/2019/Isekai%20Cheat%20Magician)
 - [彼方的阿斯特拉 / Kanata no Astra](https://github.com/DMYJS/MMSUB/tree/master/Animation/2019/Kanata%20no%20Astra)
