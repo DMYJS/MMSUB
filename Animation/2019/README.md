@@ -7,7 +7,7 @@
 - [小书痴的下克上 为了成为图书管理员不择手段 / Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen](
 https://github.com/DMYJS/MMSUB/tree/master/Animation/2019/Honzuki%20no%20Gekokujou:%20Shisho%20ni%20Naru%20Tame%20ni%20wa%20Shudan%20wo%20Erandeiraremasen)
 - [放学后桌游俱乐部 / Houkago Saikoro Club](https://github.com/DMYJS/MMSUB/tree/master/Animation/2019/Houkago%20Saikoro%20Club)
-- []()
+- [鸭子的天空 / 篮球少年王 / Ahiru no Sora](https://github.com/DMYJS/MMSUB/tree/master/Animation/2019/Ahiru%20no%20Sora)
 - []()
 - []()
 
