@@ -2,12 +2,13 @@
 
 收录2019年度本组所手抄的外挂字幕（不分前后顺序，仅按开播月份计算）
 
-### 2019年 10月（即将开播）
+### 2019年 10月
 - [命运 冠位指定 绝对魔兽战线 巴比伦尼亚 / Fate Grand Order Zettai Majuu Sensen Babylonia](https://github.com/DMYJS/MMSUB/tree/master/Animation/2019/Fate%20Grand%20Order:%20Zettai%20Majuu%20Sensen%20Babylonia%20-%20Initium%20Iter)
 - [小书痴的下克上 为了成为图书管理员不择手段 / Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen](
 https://github.com/DMYJS/MMSUB/tree/master/Animation/2019/Honzuki%20no%20Gekokujou:%20Shisho%20ni%20Naru%20Tame%20ni%20wa%20Shudan%20wo%20Erandeiraremasen)
 - [放学后桌游俱乐部 / Houkago Saikoro Club](https://github.com/DMYJS/MMSUB/tree/master/Animation/2019/Houkago%20Saikoro%20Club)
 - [鸭子的天空 / 篮球少年王 / Ahiru no Sora](https://github.com/DMYJS/MMSUB/tree/master/Animation/2019/Ahiru%20no%20Sora)
+- [碧蓝航线 / アズールレーン / Azur Lane](https://github.com/DMYJS/MMSUB/tree/master/Animation/2019/Azur%20Lane)
 - []()
 - []()
 
