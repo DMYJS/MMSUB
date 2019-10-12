@@ -1,1 +1,1 @@
-![KV](https://img.moegirl.org/common/d/d6/Ahiru_no_Sora_Anime_KV.jpg)
+![KV](https://puui.qpic.cn/fans_admin/0/3_311592059_1570091432607/0.jpg)
