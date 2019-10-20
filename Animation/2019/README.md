@@ -9,6 +9,7 @@ https://github.com/DMYJS/MMSUB/tree/master/Animation/2019/Honzuki%20no%20Gekokuj
 - [慎重勇者：這個勇者明明超TUEEE卻過度謹慎~ / Shinchou Yuusha](https://github.com/DMYJS/MMSUB/tree/master/Animation/2019/Shinchou%20Yuusha)
 - [放学后桌游俱乐部 / 放課後さいころ倶楽部 / Houkago Saikoro Club](https://github.com/DMYJS/MMSUB/tree/master/Animation/2019/Houkago%20Saikoro%20Club)
 - [鸭子的天空 / 篮球少年王 / あひるの空 / Ahiru no Sora](https://github.com/DMYJS/MMSUB/tree/master/Animation/2019/Ahiru%20no%20Sora)
+- [星合之空 / 星合の空 / Hoshiai no Sora](https://github.com/DMYJS/MMSUB/tree/master/Animation/2019/Hoshiai%20no%20Sora)
 - [碧蓝航线 / アズールレーン / Azur Lane](https://github.com/DMYJS/MMSUB/tree/master/Animation/2019/Azur%20Lane)
 - [食戟之灵 第4季 / 食戟之靈 神之皿 / Shokugeki no Souma: Shin no Sara](https://github.com/DMYJS/MMSUB/tree/master/Animation/2019/Shokugeki%20no%20Souma:%20Shin%20no%20Sara)
 - [我的英雄學院 S4 / 僕のヒーローアカデミア 第4期 / Boku no Hero Academia 4th Season](https://github.com/DMYJS/MMSUB/tree/master/Animation/2019/Boku%20no%20Hero%20Academia%204th%20Season)
