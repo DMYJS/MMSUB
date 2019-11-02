@@ -3,21 +3,42 @@
 收录2019年度本组所提供的外挂字幕（不分前后顺序，仅按开播月份计算）
 
 ### 2019年 10月
+
+- [我的英雄學院 S4 / 僕のヒーローアカデミア 第4期 / Boku no Hero Academia 4th Season](https://github.com/DMYJS/MMSUB/tree/master/Animation/2019/Boku%20no%20Hero%20Academia%204th%20Season)
+
+- [碧蓝航线 / アズールレーン / Azur Lane](https://github.com/DMYJS/MMSUB/tree/master/Animation/2019/Azur%20Lane)
+
+- [鸭子的天空 / 篮球少年王 / あひるの空 / Ahiru no Sora](https://github.com/DMYJS/MMSUB/tree/master/Animation/2019/Ahiru%20no%20Sora)
+
+- [戦×恋 / ヴァルラヴ / Val x Love](https://github.com/DMYJS/MMSUB/tree/master/Animation/2019/Val%20x%20Love)
+
+- [神田川Jet Girls / Kandagawa Jet Girls](https://github.com/DMYJS/MMSUB/tree/master/Animation/2019/Kandagawa%20Jet%20Girls)
+
+- [高分少女 第2季 / ハイスコアガール II / High Score Girl II](https://github.com/DMYJS/MMSUB/tree/master/Animation/2019/High%20Score%20Girl%20II)
+
+- [异界群敌 代码重组 / Z X Code Reunion](https://github.com/DMYJS/MMSUB/tree/master/Animation/2019/Z%20X%20Code%20Reunion)
+
 - [命运 冠位指定 绝对魔兽战线 巴比伦尼亚 / Fate Grand Order Zettai Majuu Sensen Babylonia](https://github.com/DMYJS/MMSUB/tree/master/Animation/2019/Fate%20Grand%20Order:%20Zettai%20Majuu%20Sensen%20Babylonia%20-%20Initium%20Iter)
+
 - [小书痴的下克上 为了成为图书管理员不择手段 / Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen](
 https://github.com/DMYJS/MMSUB/tree/master/Animation/2019/Honzuki%20no%20Gekokujou:%20Shisho%20ni%20Naru%20Tame%20ni%20wa%20Shudan%20wo%20Erandeiraremasen)
+
 - [慎重勇者：這個勇者明明超TUEEE卻過度謹慎~ / Shinchou Yuusha](https://github.com/DMYJS/MMSUB/tree/master/Animation/2019/Shinchou%20Yuusha)
+
 - [放学后桌游俱乐部 / 放課後さいころ倶楽部 / Houkago Saikoro Club](https://github.com/DMYJS/MMSUB/tree/master/Animation/2019/Houkago%20Saikoro%20Club)
-- [鸭子的天空 / 篮球少年王 / あひるの空 / Ahiru no Sora](https://github.com/DMYJS/MMSUB/tree/master/Animation/2019/Ahiru%20no%20Sora)
+
 - [星合之空 / 星合の空 / Hoshiai no Sora](https://github.com/DMYJS/MMSUB/tree/master/Animation/2019/Hoshiai%20no%20Sora)
-- [碧蓝航线 / アズールレーン / Azur Lane](https://github.com/DMYJS/MMSUB/tree/master/Animation/2019/Azur%20Lane)
+
 - [食戟之灵 第4季 / 食戟之靈 神之皿 / Shokugeki no Souma: Shin no Sara](https://github.com/DMYJS/MMSUB/tree/master/Animation/2019/Shokugeki%20no%20Souma:%20Shin%20no%20Sara)
-- [我的英雄學院 S4 / 僕のヒーローアカデミア 第4期 / Boku no Hero Academia 4th Season](https://github.com/DMYJS/MMSUB/tree/master/Animation/2019/Boku%20no%20Hero%20Academia%204th%20Season)
+
 - [一弦定音 第2季 / Kono Oto Tomare 2 season](https://github.com/DMYJS/MMSUB/tree/master/Animation/2019/Kono%20Oto%20Tomare%20Season%20%E2%85%A1)
+
 - [旗扬！兽道 / 萌獸寵物店 / Hataage! Kemono Michi](https://github.com/DMYJS/MMSUB/tree/master/Animation/2019/Hataage!%20Kemono%20Michi)
+
 - [募戀英雄 PIECE OF TRUTH / Stand My Heroes - Piece of Truth](https://github.com/DMYJS/MMSUB/tree/master/Animation/2019/Stand%20My%20Heroes%20-%20Piece%20of%20Truth)
-- [戦×恋 / ヴァルラヴ / Val x Love](https://github.com/DMYJS/MMSUB/tree/master/Animation/2019/Val%20x%20Love)
+
 - [香蕉喵 不可思议的朋友 / Bananya and the Curious Bunch](https://github.com/DMYJS/MMSUB/tree/master/Animation/2019/Bananya%20and%20the%20Curious%20Bunch)
+
 - [非洲的動物上班族 / Africa no Salaryman (2019)](https://github.com/DMYJS/MMSUB/tree/master/Animation/2019/Africa%20no%20Salaryman%20(2019))
 
 - []()
