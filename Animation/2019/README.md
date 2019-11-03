@@ -16,9 +16,16 @@
 
 - [高分少女 第2季 / ハイスコアガール II / High Score Girl II](https://github.com/DMYJS/MMSUB/tree/master/Animation/2019/High%20Score%20Girl%20II)
 
+- [厨神小当家 / 真·中华一番 / Shin Chuuka Ichiban!](https://github.com/DMYJS/MMSUB/tree/master/Animation/2019/Shin%20Chuuka%20Ichiban!)
+
+- [美妙射击部 / Rifle is Beautiful](https://github.com/DMYJS/MMSUB/tree/master/Animation/2019/Rifle%20is%20Beautiful)
+
 - [异界群敌 代码重组 / Z X Code Reunion](https://github.com/DMYJS/MMSUB/tree/master/Animation/2019/Z%20X%20Code%20Reunion)
 
+
 - [命运 冠位指定 绝对魔兽战线 巴比伦尼亚 / Fate Grand Order Zettai Majuu Sensen Babylonia](https://github.com/DMYJS/MMSUB/tree/master/Animation/2019/Fate%20Grand%20Order:%20Zettai%20Majuu%20Sensen%20Babylonia%20-%20Initium%20Iter)
+
+- [七大罪 诸神的逆鳞 / 七つの大罪 神々の逆鱗 / Nanatsu no Taizai: Kamigami no Gekirin](https://github.com/DMYJS/MMSUB/tree/master/Animation/2019/Nanatsu%20no%20Taizai%EF%BC%9AKamigami%20no%20Gekirin)
 
 - [小书痴的下克上 为了成为图书管理员不择手段 / Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen](
 https://github.com/DMYJS/MMSUB/tree/master/Animation/2019/Honzuki%20no%20Gekokujou:%20Shisho%20ni%20Naru%20Tame%20ni%20wa%20Shudan%20wo%20Erandeiraremasen)
