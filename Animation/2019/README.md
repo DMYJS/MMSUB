@@ -65,6 +65,7 @@ https://github.com/DMYJS/MMSUB/tree/master/Animation/2019/Honzuki%20no%20Gekokuj
 - [异世界超能魔术师 / Isekai Cheat Magician](https://github.com/DMYJS/MMSUB/tree/master/Animation/2019/Isekai%20Cheat%20Magician)
 - [彼方的阿斯特拉 / Kanata no Astra](https://github.com/DMYJS/MMSUB/tree/master/Animation/2019/Kanata%20no%20Astra)
 - [新石紀 / 石纪元 / Dr.STONE](https://github.com/DMYJS/MMSUB/tree/master/Animation/2019/Dr.STONE)
+- [偶像梦幻祭 / Ensemble Stars!](https://github.com/DMYJS/MMSUB/tree/master/Animation/2019/Ensemble%20Stars!)
 - []()
 - []()
 
